@@ -9,8 +9,7 @@
 ##2.简单接触 gdb, 开始调试r n p
 
     第一个演示代码 heoo.c
-    
-    ```c
+
     #include <stdio.h>
     
     int g_var = 0;
@@ -34,4 +33,3 @@
         
         return 0;
     }
-    ```
